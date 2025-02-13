@@ -1,6 +1,6 @@
 [package]
 name = "monistode-assemblers"
-version = "0.1.1"
+version = "0.1.2"
 edition = "2021"
 description = "A collection of assemblers for the monistode set of architectures."
 license = "MIT"
@@ -8,5 +8,5 @@ license = "MIT"
 [dependencies]
 bitvec = "1.0.1"
 combine = "4.6.7"
-monistode-binutils = "0.1.1"
+monistode-binutils = "0.1.2"
 monistode-macros = "0.1.1"
